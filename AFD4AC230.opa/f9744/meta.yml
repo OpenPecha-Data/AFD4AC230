@@ -1,0 +1,16 @@
+id: AFD4AC230
+base_file: f9744.txt
+type: translation
+source_metadata:
+  languages:
+  - en
+  - de
+  - es
+  - fr
+  - it
+  - nl
+  - zh
+  - bo
+  datatype: PlainText
+  created_at: 2022-06-17 11:36:28.844160
+  last_modified_at: 2022-06-17 11:36:28.844162

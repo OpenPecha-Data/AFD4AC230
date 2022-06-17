@@ -1,0 +1,16 @@
+segment_sources:
+  I2B9B2938:
+    type: origin_type
+    relation: translation
+    language: en
+  IC34E28CD:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  9cf4fa4d55ba4178ab14b460b9973b97:
+    I2B9B2938: 6aaa673ffa224bba99c5604809fd48ca
+    IC34E28CD: 00ecc0fa016e4b45bf62fc18905af9c9
+  5357f98493f744739db6622be8d4cf77:
+    I2B9B2938: a4aa30ab31a444fb816f7dfee64fdabd
+    IC34E28CD: 3901cc01975544908f54dda79e1198f2
